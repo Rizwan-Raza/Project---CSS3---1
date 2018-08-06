@@ -3,21 +3,25 @@
 
 Assigned by Mr. Azam while studying Web Technologies at ProLog Academy.
 
-## Technologies Used
+### Technologies Used
 
 * HTML5
 * CSS3
 
-## Resources Used
+### Resources Used
 
-* Images exists in (./images)[https://github.com/Rizwan-Raza/Project-CSS3-1/images] folder
+* Images exists in [./images](https://github.com/Rizwan-Raza/Project-CSS3-1/images) folder
 
-## How to setup
+### How to setup
+```
+Just Clone this Git
+Extract the master branch zip file
+Open the index.html in any browser.
+```
 
-* Just Clone this Git
-* Extract the master branch zip file
-* Open the index.html in any browser.
+## Authors
 
+* **Rizwan Raza** [Project CSS3 - 1](https://github.com/Rizwan-Raza/Project-CSS3-1) - `Initial Work`
 ## Created on 
 
-July 2016 for ProLog Academy by (Rizwan-Raza)[https://github.com/Rizwan-Raza]
+July 2016 for ProLog Academy.
