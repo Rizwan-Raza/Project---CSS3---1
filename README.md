@@ -19,9 +19,9 @@ Extract the master branch zip file
 Open the index.html in any browser.
 ```
 
-## Authors
+### Authors
 
-* **Rizwan Raza** [Project CSS3 - 1](https://github.com/Rizwan-Raza/Project-CSS3-1) - `Initial Work`
-## Created on 
+* **Rizwan Raza** - *Initial Work* - [Project CSS3 - 1](https://github.com/Rizwan-Raza/Project-CSS3-1)
+### Created on 
 
 July 2016 for ProLog Academy.
