@@ -10,7 +10,7 @@ Assigned by Mr. Azam while studying Web Technologies at ProLog Academy.
 
 ## Resources Used
 
-* Images exists in ./img folder
+* Images exists in (./images)[https://github.com/Rizwan-Raza/Project-CSS3-1/images] folder
 
 ## How to setup
 
@@ -20,4 +20,4 @@ Assigned by Mr. Azam while studying Web Technologies at ProLog Academy.
 
 ## Created on 
 
-July 2016 for ProLog Academy by @Rizwan-Raza
+July 2016 for ProLog Academy by (Rizwan-Raza)[https://github.com/Rizwan-Raza]
